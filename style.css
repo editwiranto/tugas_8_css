@@ -1,0 +1,28 @@
+body{
+    background: url(kincirangin.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+    background: url(avocado.jpg);
+    background-size: 250px 250px;
+    background-color: white;
+    background-repeat: repeat-y;
+    overflow: scroll;
+    width: 600px;
+    height: 300px;
+}
+.satu{
+    color: blue;
+    text-align: right;
+}
+.dua{
+    color: green;
+    text-align: left;
+}
+.tiga{
+    color: red;
+    text-align: right;
+    padding-right: 20px;
+}
